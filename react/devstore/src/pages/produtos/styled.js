@@ -40,6 +40,10 @@ min-height: 75em;
     color: #615858;
 }
 
+.cadastro-e-alterar button{
+    cursor: pointer;
+}
+
 
 .parte-1{
     margin-bottom: 14px;
@@ -195,6 +199,7 @@ td img{
     height: 2em;
     margin-top: 10px;
     cursor: pointer;
+    margin-right: 6px
 }
 
 tr:nth-child(odd){
